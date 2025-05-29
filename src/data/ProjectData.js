@@ -69,6 +69,27 @@ export const ProjectList = [
     description:
       "This is video 10",
     demo_url: "/video10.mp4",
+  },
+  {
+    img: "/demo11.png",
+    title: "Video 11",
+    description:
+      "This is video 11",
+    demo_url: "/video11.mp4",
+  },
+  {
+    img: "/demo12.png",
+    title: "Video 12",
+    description:
+      "This is video 12",
+    demo_url: "/video12.mp4",
+  },
+  {
+    img: "/demo13.png",
+    title: "Video 13",
+    description:
+      "This is video 13",
+    demo_url: "/video13.mp4",
   }
 ];
 // --------------------------------------- Skills
